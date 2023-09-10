@@ -1,0 +1,91 @@
+body{
+    background-image: url("im/4k.jpg");
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container{
+    background:rgba(255, 250, 250, 0.603);
+    height: 100%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    justify-content: center;
+    padding: 5px;
+
+    
+
+}
+
+.Login{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.imagen{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    height: 30%;
+    padding-top: 5px;
+}
+
+Img{
+    
+}
+
+form{
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.email{
+    margin-bottom: 10px;
+    height: 50%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+.clave{
+    height: 50%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+input {
+    padding:10px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 8px;
+}
+
+button{
+    margin-top: 20px;
+    height: 30px;
+    border-radius: 10px;
+}
